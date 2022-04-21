@@ -2,7 +2,7 @@
 
 ## Description
 
-This program will ask you some questions in the command line, and based on what you answer them with, create a readme file in markdown for your project
+This program will ask you some questions in the command line, and based on what you answer them with, create a readme file in markdown for your project. The files will be written to the output folder.
 
 ## Instructions
 
